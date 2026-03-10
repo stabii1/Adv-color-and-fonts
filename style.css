@@ -50,9 +50,10 @@ p{
 }
 
 .hsl {
-  background-color: ;
-  color: ;
-  border: 5px solid ;
+  background-color: hsl(0, 60%, 34%);
+  color: hsl(0, 0%, 95%);
+  border: 5px solid hsl(0, 87%, 59%);
+  color: hsla(0, 0%, 95%, .8);
 }
 
 .hue1 {
