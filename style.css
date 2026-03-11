@@ -26,7 +26,8 @@ p{
 }
 
 .container {
-  background-color: #8bd3dd;
+  /*background-color: #8bd3dd;*/
+  background-image: linear-gradient(rgba(255, 0, 0, 0.15), rgba(141, 102, 102, 0.75)), url("./assets/IMG_8065.jpeg");
   border: 2px dashed #f582ae;
   width: 400px;
   height: 1000px;
