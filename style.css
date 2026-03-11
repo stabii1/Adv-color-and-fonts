@@ -34,12 +34,14 @@ p{
   background-color: black;
   color: white;
   border: 5px solid green;
+  font-family: times, serif;
 }
 
 .hex {
   background-color: #172c66;
   color: #fef6e4;
   border: 5px solid #f582ae;
+  font-family: cursive;
 }
 
 .rgb {
